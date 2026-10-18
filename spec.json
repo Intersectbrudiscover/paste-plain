@@ -1,0 +1,51 @@
+{
+    "name":  "paste-plain",
+    "logo":  "🪶",
+    "exe":  "PastePlain.exe",
+    "desc":  "Free, open-source paste as plain text tool for Windows — universal hotkey strips formatting from any copy. 100 MB portable, MIT.",
+    "topics":  [
+                   "paste-plain-text",
+                   "paste-without-formatting",
+                   "clipboard",
+                   "plain-text",
+                   "clean-paste",
+                   "shortcuts-hero-alternative",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "puretext-alternative",
+                   "hotkey",
+                   "clipboard-tools",
+                   "office",
+                   "productivity",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Universal plain paste** — Win+Alt+V pastes clipboard text without fonts, colors or links in any app",
+                     "✅ **Auto-clean mode** — optionally converts every copy so plain text is the default behavior",
+                     "✅ **Smart whitespace** — options to collapse blank lines and trim trailing spaces on paste",
+                     "✅ **Rich-when-wanted exception list** — sender targets like editors can keep original formatting",
+                     "✅ **No clipboard daemon** — runs in the tray, uses no history database, stores nothing",
+                     "✅ **Works everywhere** — any control that accepts text, including remote sessions",
+                     "✅ **100 MB self-contained exe** — runtime bundled, portable, offline, MIT with SHA-256 releases"
+                 ],
+    "compare":  [
+                    "| Feature | **paste-plain** | PureText | Ditto | Ctrl+Shift+V |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free | Free, OSS | Built-in |",
+                    "| Open source | **Yes** | No | Yes | No |",
+                    "| Works in every app | **Yes** | Yes | Partial | App-dependent |",
+                    "| No clipboard history stored | **Yes** | Yes | No | Yes |",
+                    "| Whitespace cleanup options | **Yes** | No | Partial | No |",
+                    "| Portable, no install | **Yes, 100 MB** | Zip | Installer | With OS |"
+                ],
+    "faqQ":  "how to always paste as plain text on Windows?",
+    "faqA":  "Ctrl+Shift+V exists only in some apps, so formatting keeps riding into tickets, emails and code fields. paste-plain binds a system-wide hotkey that pastes cleaned text into any control, or can auto-clean everything you copy. It stores no clipboard history at all and is a 100 MB portable exe under MIT.",
+    "s1":  "Dark panel (#121418, mint #6EE7B7): hotkey recorder showing Win+Alt+V, auto-clean toggle on, whitespace options with checkboxes.",
+    "s2":  "Exception manager: target list where formatting is preserved, add-app picker, priority order rows with drag handles.",
+    "s3":  "Tray and log: recent paste events without content shown, privacy note card about storing nothing, startup toggle off."
+}
